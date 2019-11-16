@@ -1,0 +1,8 @@
+{
+	"apiKey": "2fdef4b1-960f-4cce-8fb1-906ee6ddc2d3",
+	"smallCar": 0.1276,
+	"largeCar": 0.257,
+	"train": 0.06,
+	"coach": 0.089,
+	"plane": 0.1753
+}
